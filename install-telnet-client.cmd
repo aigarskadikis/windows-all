@@ -1,3 +1,1 @@
-@echo off
-pkgmgr /iu:"TelnetClient"
-pause
+@echo off & pkgmgr /iu:"TelnetClient" & pause
